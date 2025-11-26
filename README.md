@@ -2,7 +2,7 @@
 
 **The Ultimate Type-Safe Fetch Wrapper for Zod**
 
-`zod-http` is a lightweight (< 5kB), zero-dependency (except Zod) wrapper for `fetch` that brings complete type safety and validation to your API calls. It eliminates boilerplate and provides robust error handling.
+`zod-http` is a lightweight, zero-dependency (except Zod) wrapper for `fetch` that brings complete type safety and validation to your API calls. It eliminates boilerplate and provides robust error handling.
 
 ## Features
 
@@ -11,7 +11,7 @@
 - 🛡️ **Robust Error Handling**: Unified `ZodFetchError` for network, timeout, validation, and abort errors.
 - 🔄 **Retry & Timeout**: Built-in retry logic (linear/exponential) and timeout support.
 - 🛠️ **CLI Generator**: Generate fully typed clients from OpenAPI specs.
-- 📦 **Tiny Bundle**: < 5kB gzipped.
+- 📦 **Lightweight**: Core library ~4 kB, full package with CLI ~110 kB gzipped.
 
 ## Installation
 
