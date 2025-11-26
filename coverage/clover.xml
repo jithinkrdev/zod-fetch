@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1764173286406" clover="3.2.0">
-  <project timestamp="1764173286406" name="All files">
+<coverage generated="1764173788403" clover="3.2.0">
+  <project timestamp="1764173788403" name="All files">
     <metrics statements="290" coveredstatements="229" conditionals="63" coveredconditionals="38" methods="18" coveredmethods="12" elements="371" coveredelements="279" complexity="0" loc="290" ncloc="290" packages="1" files="4" classes="4"/>
     <file name="client.ts" path="/Users/jithinkr/workspace/interview/custom_npm/zod-fetch/src/client.ts">
       <metrics statements="41" coveredstatements="32" conditionals="9" coveredconditionals="4" methods="9" coveredmethods="4"/>
